@@ -1,1 +1,7 @@
 data/
+src/models/
+hyperband_logs/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
